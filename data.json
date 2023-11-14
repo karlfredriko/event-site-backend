@@ -1,0 +1,30 @@
+{
+  "start": {
+    "name": "MarsCon",
+    "address": "Mars",
+    "date": "2023-11-14",
+    "time": "15:30"
+  },
+  "activities": [
+    {
+      "id": 1,
+      "name": "Search for Water",
+      "description": "Explore Martian terrain to locate potential water sources for future colonization."
+    },
+    {
+      "id": 2,
+      "name": "Find Shelter",
+      "description": "Engage in a simulated scenario to locate suitable locations for building shelters on Mars."
+    },
+    {
+      "id": 3,
+      "name": "Red Planet Rover Expedition",
+      "description": "Embark on a rover expedition to study Mars' surface and collect valuable data for research."
+    },
+    {
+      "id": 4,
+      "name": "Mars Photography Contest",
+      "description": "Capture breathtaking images of Mars' landscape and enter the photography contest."
+    }
+  ]
+}
