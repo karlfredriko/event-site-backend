@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "concurrently \"json-server --watch data.json\" \"nodemon server.mjs\""
+    "dev": "concurrently \"json-server --watch data.json --port 8080\" \"nodemon server.mjs\""
   },
   "keywords": [],
   "author": "",
