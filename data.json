@@ -2,8 +2,8 @@
   "start": {
     "name": "MarsCon",
     "address": "Mars",
-    "date": "2023-11-14",
-    "time": "15:30"
+    "date": "2024-04-20",
+    "time": "11:00"
   },
   "activities": [
     {
@@ -25,6 +25,36 @@
       "id": 4,
       "name": "Mars Photography Contest",
       "description": "Capture breathtaking images of Mars' landscape and enter the photography contest."
+    }
+  ],
+  "tickets": [
+    {
+      "type": "basic",
+      "email": "test@test.test",
+      "firstName": "Karl",
+      "lastName": "Larssson",
+      "id": 1
+    },
+    {
+      "type": "basic",
+      "email": "test@test.test",
+      "firstName": "Karl",
+      "lastName": "Larssson",
+      "id": 2
+    },
+    {
+      "type": "basic",
+      "email": "test@test.test",
+      "firstName": "Karl",
+      "lastName": "Larssson",
+      "id": 3
+    },
+    {
+      "type": "basic",
+      "email": "test@test.test",
+      "firstName": "Karl",
+      "lastName": "Larssson",
+      "id": 4
     }
   ]
 }

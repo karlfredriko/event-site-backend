@@ -2,11 +2,13 @@ import fetch from "node-fetch";
 import "dotenv/config";
 
 const baseUrl = process.env.BASE_URL;
-const responseType = {
-  status: "Not found",
-  statusCode: 404,
-  error: null,
-  data: null,
+const createResponseObj = () => {
+  return {
+    status: "Not found",
+    statusCode: 404,
+    error: null,
+    data: null,
+  };
 };
 
 export const getData = async (endpoint, id = null) => {
@@ -16,7 +18,7 @@ export const getData = async (endpoint, id = null) => {
       accept: "application/json",
     },
   };
-
+  const responseObj = createResponseObj();
   let url = baseUrl + endpoint;
   console.log(url);
   if (id !== null) url += `/${id}`;
@@ -24,36 +26,38 @@ export const getData = async (endpoint, id = null) => {
   const response = await fetch(url, options);
   if (response.ok) {
     const result = await response.json();
-    responseType.status = "Success";
-    responseType.statusCode = 200;
-    responseType.data = result;
+    responseObj.status = "Success";
+    responseObj.statusCode = 200;
+    responseObj.data =
+      endpoint === "tickets" ? { ticketsSold: result.length } : result;
 
-    return responseType;
+    return responseObj;
   } else {
-    responseType.error = `${endpoint}/${id ? id : null} hittar ingen data.`;
-    return responseType;
+    responseObj.error = `${endpoint}/${id ? id : null} hittar ingen data.`;
+    return responseObj;
   }
 };
 
 export const postData = async (body) => {
-  const response = await fetch(baseUrl, {
+  const response = await fetch(baseUrl + "tickets", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
     },
     body: JSON.stringify(body),
   });
+  const responseObj = createResponseObj();
 
   if (response.status !== 201) {
-    responseType.statusCode = 500;
-    responseType.status = "Error";
-    responseType.error = "Ett fel inträffade när data skulle sparas";
-    return responseType;
+    responseObj.statusCode = 500;
+    responseObj.status = "Error";
+    responseObj.error = "Ett fel inträffade när data skulle sparas";
+    return responseObj;
   } else {
     const result = await response.json();
-    responseType.statusCode = 201;
-    responseType.status = "Success";
-    responseType.data = result;
-    return responseType;
+    responseObj.statusCode = 201;
+    responseObj.status = "Success";
+    responseObj.data = result;
+    return responseObj;
   }
 };
