@@ -2,9 +2,10 @@
   "start": {
     "name": "MarsCon",
     "location": "Älvsjömässan",
+    "city": "Stockholm",
     "date": "2024-04-20",
-    "time": "11:00",
-    "slogan": "Mars: Planet of Possibilities"
+    "time": "10:00",
+    "slogan": "the Planet of Possibilities"
   },
   "activities": [
     {
