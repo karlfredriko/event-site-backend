@@ -12,42 +12,60 @@
       "id": 1,
       "name": "Sök efter Vatten",
       "description": "Deltag i vår VR-utmaning! Utforska den marsianska terrängen för att lokalisera potentiella vattenkällor för framtida kolonisering.",
-      "picture": "searching-for-water.png",
+      "image": {
+        "src": "http://localhost:3000/assets/searching-for-water.png",
+        "alt": ""
+      },
       "text": "Löksås ipsum dimmhöljd dag stora dimma samtidigt precis tiden häst sjö varit, har erfarenheter miljoner är därmed sitt det ser kanske ska. Ta hav sax flera erfarenheter dag brunsås smultron äng erfarenheter oss, denna stora sitt varit kunde både vid hav det, bland del samtidigt söka sjö om sin upprätthållande omfångsrik. Fram nya smultron år icke där trevnadens se björnbär genom kanske, dimma det helt när sorgliga icke redan från sällan, sax träutensilierna dimma gör flera mot som olika kunde. Lax bra från så fram så nya som dimmhöljd, olika göras nya dunge annan verkligen där, ska mot blev ingalunda göras kom kanske. Ta hela av för se brunsås dimma vid, annan vidsträckt inom nya icke hela, stora verkligen och denna ser annat. Hav nya regn så flera dunge dimmhöljd mot, som lax hav kanske ser ingalunda tiden, lax vi rännil gör helt kunde."
     },
     {
       "id": 2,
       "name": "Hitta Skydd",
       "description": "Deltag i ett simuleringsscenario för att hitta lämpliga platser för att bygga skydd på Mars, dröj inte för länge bara...",
-      "picture": "searching-shelter.png",
+      "image": {
+        "src": "http://localhost:3000/assets/searching-shelter.png",
+        "alt": ""
+      },
       "text": "Löksås ipsum dimmhöljd dag stora dimma samtidigt precis tiden häst sjö varit, har erfarenheter miljoner är därmed sitt det ser kanske ska. Ta hav sax flera erfarenheter dag brunsås smultron äng erfarenheter oss, denna stora sitt varit kunde både vid hav det, bland del samtidigt söka sjö om sin upprätthållande omfångsrik. Fram nya smultron år icke där trevnadens se björnbär genom kanske, dimma det helt när sorgliga icke redan från sällan, sax träutensilierna dimma gör flera mot som olika kunde. Lax bra från så fram så nya som dimmhöljd, olika göras nya dunge annan verkligen där, ska mot blev ingalunda göras kom kanske. Ta hela av för se brunsås dimma vid, annan vidsträckt inom nya icke hela, stora verkligen och denna ser annat. Hav nya regn så flera dunge dimmhöljd mot, som lax hav kanske ser ingalunda tiden, lax vi rännil gör helt kunde."
     },
     {
       "id": 3,
       "name": "Red Rover Race",
       "description": "Utmana dig själv och dina vänner genom att delta i vår Red Rover go-cart turnering!",
-      "picture": "red-rover-race.png",
+      "image": {
+        "src": "http://localhost:3000/assets/red-rover-race.png",
+        "alt": ""
+      },
       "text": "Löksås ipsum dimmhöljd dag stora dimma samtidigt precis tiden häst sjö varit, har erfarenheter miljoner är därmed sitt det ser kanske ska. Ta hav sax flera erfarenheter dag brunsås smultron äng erfarenheter oss, denna stora sitt varit kunde både vid hav det, bland del samtidigt söka sjö om sin upprätthållande omfångsrik. Fram nya smultron år icke där trevnadens se björnbär genom kanske, dimma det helt när sorgliga icke redan från sällan, sax träutensilierna dimma gör flera mot som olika kunde. Lax bra från så fram så nya som dimmhöljd, olika göras nya dunge annan verkligen där, ska mot blev ingalunda göras kom kanske. Ta hela av för se brunsås dimma vid, annan vidsträckt inom nya icke hela, stora verkligen och denna ser annat. Hav nya regn så flera dunge dimmhöljd mot, som lax hav kanske ser ingalunda tiden, lax vi rännil gör helt kunde."
     },
     {
       "id": 4,
       "name": "Mars Fototävling",
       "description": "Fånga fantastiska bilder av Mars landskap och delta i fototävlingen.",
-      "picture": "mars-photoshoot.png",
+      "image": {
+        "src": "http://localhost:3000/assets/mars-photoshoot.png",
+        "alt": ""
+      },
       "text": "Löksås ipsum dimmhöljd dag stora dimma samtidigt precis tiden häst sjö varit, har erfarenheter miljoner är därmed sitt det ser kanske ska. Ta hav sax flera erfarenheter dag brunsås smultron äng erfarenheter oss, denna stora sitt varit kunde både vid hav det, bland del samtidigt söka sjö om sin upprätthållande omfångsrik. Fram nya smultron år icke där trevnadens se björnbär genom kanske, dimma det helt när sorgliga icke redan från sällan, sax träutensilierna dimma gör flera mot som olika kunde. Lax bra från så fram så nya som dimmhöljd, olika göras nya dunge annan verkligen där, ska mot blev ingalunda göras kom kanske. Ta hela av för se brunsås dimma vid, annan vidsträckt inom nya icke hela, stora verkligen och denna ser annat. Hav nya regn så flera dunge dimmhöljd mot, som lax hav kanske ser ingalunda tiden, lax vi rännil gör helt kunde."
     },
     {
       "id": 5,
       "name": "Kontakt av tredje graden",
       "description": "Du är medlem i en grupp som utsetts att leda dem första diplomatiska samtalen med Mars! Testa på att rollspela ett specialskrivet äventyr som kretsar kring den första kontakten med befolkningen på Mars",
-      "picture": "alien-greet.png",
+      "image": {
+        "src": "http://localhost:3000/assets/alien-greet.png",
+        "alt": ""
+      },
       "text": "Löksås ipsum dimmhöljd dag stora dimma samtidigt precis tiden häst sjö varit, har erfarenheter miljoner är därmed sitt det ser kanske ska. Ta hav sax flera erfarenheter dag brunsås smultron äng erfarenheter oss, denna stora sitt varit kunde både vid hav det, bland del samtidigt söka sjö om sin upprätthållande omfångsrik. Fram nya smultron år icke där trevnadens se björnbär genom kanske, dimma det helt när sorgliga icke redan från sällan, sax träutensilierna dimma gör flera mot som olika kunde. Lax bra från så fram så nya som dimmhöljd, olika göras nya dunge annan verkligen där, ska mot blev ingalunda göras kom kanske. Ta hela av för se brunsås dimma vid, annan vidsträckt inom nya icke hela, stora verkligen och denna ser annat. Hav nya regn så flera dunge dimmhöljd mot, som lax hav kanske ser ingalunda tiden, lax vi rännil gör helt kunde."
     },
     {
       "id": 6,
       "name": "Rymd Rave",
       "description": "Under hela eventet pågår ett 'Silent disco' i en fjärran marsiansk ödemark (sal 3B). Kom och gå som du vill, dryck och snacks finns att köpa i kiosken.",
-      "picture": "space-rave.png",
+      "image": {
+        "src": "http://localhost:3000/assets/space-rave.png",
+        "alt": ""
+      },
       "text": "Löksås ipsum dimmhöljd dag stora dimma samtidigt precis tiden häst sjö varit, har erfarenheter miljoner är därmed sitt det ser kanske ska. Ta hav sax flera erfarenheter dag brunsås smultron äng erfarenheter oss, denna stora sitt varit kunde både vid hav det, bland del samtidigt söka sjö om sin upprätthållande omfångsrik. Fram nya smultron år icke där trevnadens se björnbär genom kanske, dimma det helt när sorgliga icke redan från sällan, sax träutensilierna dimma gör flera mot som olika kunde. Lax bra från så fram så nya som dimmhöljd, olika göras nya dunge annan verkligen där, ska mot blev ingalunda göras kom kanske. Ta hela av för se brunsås dimma vid, annan vidsträckt inom nya icke hela, stora verkligen och denna ser annat. Hav nya regn så flera dunge dimmhöljd mot, som lax hav kanske ser ingalunda tiden, lax vi rännil gör helt kunde."
     }
   ],
