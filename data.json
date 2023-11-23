@@ -89,165 +89,53 @@
   ],
   "tickets": [
     {
-      "type": "basic",
-      "email": "test@test.test",
-      "firstName": "Karl",
-      "lastName": "Larssson",
+      "firstName": "KarlFredrik",
+      "lastName": "Holmsten",
+      "email": "karl.fredrik.holmsten@test.se",
+      "ticketType": "standard",
       "id": 1
     },
     {
-      "type": "basic",
-      "email": "test@test.test",
-      "firstName": "Karl",
-      "lastName": "Larssson",
+      "firstName": "Kalle",
+      "lastName": "Larsson",
+      "email": "test@test.se",
+      "ticketType": "standard",
       "id": 2
     },
     {
-      "type": "basic",
-      "email": "test@test.test",
-      "firstName": "Karl",
-      "lastName": "Larssson",
+      "firstName": "Kalle",
+      "lastName": "Lasse",
+      "email": "test@test.se",
+      "ticketType": "premium",
       "id": 3
     },
     {
-      "type": "basic",
-      "email": "test@test.test",
-      "firstName": "Karl",
-      "lastName": "Larssson",
+      "firstName": "Test",
+      "lastName": "Test",
+      "email": "test@test.se",
+      "ticketType": "premium",
       "id": 4
     },
     {
-      "type": "basic",
-      "email": "test@test.test",
-      "firstName": "Karl",
-      "lastName": "Larssson",
-      "id": 5
-    },
-    {
-      "firstName": "Qweqweq",
-      "lastName": "Qweqw",
-      "email": "test@test.test",
-      "ticketType": "standard",
+      "firstName": "Test",
+      "lastName": "Jest",
+      "email": "test@test.se",
+      "ticketType": "premium",
       "id": 6
     },
     {
-      "firstName": "Qweqw",
-      "lastName": "",
-      "email": "",
-      "ticketType": "standard",
+      "firstName": "Test",
+      "lastName": "Jestkjlk",
+      "email": "test@test.se",
+      "ticketType": "premium",
       "id": 7
     },
     {
-      "firstName": "98898",
-      "lastName": "",
-      "email": "",
-      "ticketType": "standard",
+      "firstName": "Test",
+      "lastName": "Jestkjlk",
+      "email": "test@test.se",
+      "ticketType": "premium",
       "id": 8
-    },
-    {
-      "firstName": "11",
-      "lastName": "",
-      "email": "",
-      "ticketType": "standard",
-      "id": 9
-    },
-    {
-      "firstName": "Ssss",
-      "lastName": "",
-      "email": "",
-      "ticketType": "standard",
-      "id": 10
-    },
-    {
-      "firstName": "1212",
-      "lastName": "",
-      "email": "",
-      "ticketType": "standard",
-      "id": 11
-    },
-    {
-      "firstName": "",
-      "lastName": "Asdsdas",
-      "email": "",
-      "ticketType": "standard",
-      "id": 12
-    },
-    {
-      "firstName": "",
-      "lastName": "Asda",
-      "email": "",
-      "ticketType": "standard",
-      "id": 13
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "ticketType": "standard",
-      "id": 14
-    },
-    {
-      "firstName": "",
-      "lastName": "Tretre",
-      "email": "",
-      "ticketType": "standard",
-      "id": 15
-    },
-    {
-      "firstName": "",
-      "lastName": "Bil",
-      "email": "",
-      "ticketType": "standard",
-      "id": 16
-    },
-    {
-      "firstName": "",
-      "lastName": "Aasdas",
-      "email": "",
-      "ticketType": "standard",
-      "id": 17
-    },
-    {
-      "firstName": "12121",
-      "lastName": "",
-      "email": "",
-      "ticketType": "standard",
-      "id": 18
-    },
-    {
-      "firstName": "S123123",
-      "lastName": "",
-      "email": "",
-      "ticketType": "standard",
-      "id": 19
-    },
-    {
-      "firstName": "Asdasd--",
-      "lastName": "",
-      "email": "",
-      "ticketType": "standard",
-      "id": 20
-    },
-    {
-      "firstName": "ASasåäasdå-asdas--",
-      "lastName": "",
-      "email": "",
-      "ticketType": "standard",
-      "id": 21
-    },
-    {
-      "firstName": "AsdASDöäÖÄ",
-      "lastName": "",
-      "email": "",
-      "ticketType": "standard",
-      "id": 22
-    },
-    {
-      "firstName": "Karl",
-      "lastName": "",
-      "email": "Kalle@slem.se",
-      "ticketType": "standard",
-      "id": 23
     }
   ]
 }
