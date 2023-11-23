@@ -89,20 +89,6 @@
   ],
   "tickets": [
     {
-      "firstName": "KarlFredrik",
-      "lastName": "Holmsten",
-      "email": "karl.fredrik.holmsten@test.se",
-      "ticketType": "standard",
-      "id": 1
-    },
-    {
-      "firstName": "Kalle",
-      "lastName": "Larsson",
-      "email": "test@test.se",
-      "ticketType": "standard",
-      "id": 2
-    },
-    {
       "firstName": "Kalle",
       "lastName": "Lasse",
       "email": "test@test.se",
@@ -136,6 +122,34 @@
       "email": "test@test.se",
       "ticketType": "premium",
       "id": 8
+    },
+    {
+      "firstName": "Kalle-lalle",
+      "lastName": "Holmsten",
+      "email": "test@test.se",
+      "ticketType": "standard",
+      "id": 9
+    },
+    {
+      "firstName": "Kalle-lalle---",
+      "lastName": "Holmsten",
+      "email": "test@test.se",
+      "ticketType": "standard",
+      "id": 10
+    },
+    {
+      "firstName": "Kallelalle",
+      "lastName": "Holmsten",
+      "email": "test@test.se",
+      "ticketType": "standard",
+      "id": 11
+    },
+    {
+      "firstName": "Kallelalle",
+      "lastName": "Holmsten",
+      "email": "test@test.se",
+      "ticketType": "standard",
+      "id": 12
     }
   ]
 }
